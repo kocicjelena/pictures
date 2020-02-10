@@ -1,15 +1,15 @@
  
 {
   "albums": [
-    { "id": 1, "title": "Post 1", "url": "http://lorempixel.com/400/200/sports/1" },
-    { "id": 2, "title": "Post 2", "url": "http://lorempixel.com/400/200/sports/2" },
-    { "id": 3, "title": "Post 3", "url": "http://lorempixel.com/400/200/sports/3" },
-   { "id": 4, "title": "Post 1", "url": "http://lorempixel.com/400/200/sports/4" },
-    { "id": 5, "title": "Post 2", "url": "http://lorempixel.com/400/200/sports/5" },
-    { "id": 6, "title": "Post 3", "url": "http://lorempixel.com/400/200/sports/6" },
-   { "id": 7, "title": "Post 1", "url": "http://lorempixel.com/400/200/sports/7" },
-    { "id": 8, "title": "Post 2", "url": "http://lorempixel.com/400/200/sports/8" },
-    { "id": 9, "title": "Post 3", "url": "http://lorempixel.com/400/200/sports/9" }
+    { "id": 1, "title": "Post 1", "url": "http://lorempixel.com/400/200/sports/1", "kreirao":"Marko" },
+    { "id": 2, "title": "Post 2", "url": "http://lorempixel.com/400/200/sports/2", "kreirao":"Mojo" },
+    { "id": 3, "title": "Post 3", "url": "http://lorempixel.com/400/200/sports/3", "kreirao":"Bane" },
+   { "id": 4, "title": "Post 1", "url": "http://lorempixel.com/400/200/sports/4", "kreirao":"Srecko" },
+    { "id": 5, "title": "Post 2", "url": "http://lorempixel.com/400/200/sports/5", "kreirao":"Maja" },
+    { "id": 6, "title": "Post 3", "url": "http://lorempixel.com/400/200/sports/6", "kreirao":"Marko" },
+   { "id": 7, "title": "Post 1", "url": "http://lorempixel.com/400/200/sports/7", "kreirao":"Marko" },
+    { "id": 8, "title": "Post 2", "url": "http://lorempixel.com/400/200/sports/8", "kreirao":"Marko" },
+    { "id": 9, "title": "Post 3", "url": "http://lorempixel.com/400/200/sports/9", "kreirao":"Marko" }
   ],
   "photos": [
     { "id": 1, "url": "http://lorempixel.com/400/200/sports/1", "postId": 1 },
