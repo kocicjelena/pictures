@@ -12,7 +12,7 @@
     { "id": 9, "title": "Post 3", "url": "http://lorempixel.com/400/200/sports/9", "kreirao":"Marko" }
   ],
   "photos": [
-    { "id": 1, "url": {"http://lorempixel.com/400/200/sports/1","http://lorempixel.com/400/200/sports/2","http://lorempixel.com/400/200/sports/3","http://lorempixel.com/400/200/sports/4"}, "postId": 1 },
+    { "id": 1, "url": ["http://lorempixel.com/400/200/sports/1","http://lorempixel.com/400/200/sports/2","http://lorempixel.com/400/200/sports/3","http://lorempixel.com/400/200/sports/4"], "postId": 1 },
     { "id": 2, "url": "http://lorempixel.com/400/200/sports/2", "postId": 1 },
    { "id": 3, "url": "http://lorempixel.com/400/200/sports/3", "postId": 1 },
    { "id": 4, "url": "http://lorempixel.com/400/200/sports/4", "postId": 2 },
